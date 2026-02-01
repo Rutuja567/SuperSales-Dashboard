@@ -11,3 +11,15 @@ The dashboard helps in understanding business performance through **interactive 
 > Note: This dataset is used strictly for educational and portfolio purposes.
 > All credit for the dataset goes to the original content creator.
 
+## Question (KPIs)
+
+1. What is the overall sales and profit performance of the SuperStore?
+2. How do sales and profit trend over time on a monthly basis?
+3. Which regions contribute the highest sales?
+4. Which product categories generate the most sales?
+5. Which sub-categories are top-performing and which are underperforming?
+6. Are high sales always associated with high profit?
+7. What is the distribution of sales across different customer segments?
+8. Which shipping mode is most preferred by customers?
+9. How do different payment modes contribute to total sales?
+10. How efficient is the order delivery process based on average delivery time?
